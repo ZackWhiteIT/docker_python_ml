@@ -15,7 +15,9 @@ The Docker image runs on [Ubuntu 18.04.2 LTS](http://releases.ubuntu.com/18.04/)
 - [MatPlotLib](https://matplotlib.org/gallery/index.html)
 
 
-## NVIDIA CUDA
+## NVIDIA CUDA (Pending Feature)
 ![NVIDIA Container Runtime for Docker](https://cloud.githubusercontent.com/assets/3028125/12213714/5b208976-b632-11e5-8406-38d379ec46aa.png)
 
 The Dockerfile uses the [NVIDIA Container Runtime for Docker](https://github.com/NVIDIA/nvidia-docker) to leverage GPUs for compute.
+
+NVIDIA doesn't currently support Docker for Windows. Updates on support may be found [here](https://github.com/NVIDIA/nvidia-docker/issues/429).
