@@ -1,5 +1,5 @@
 # docker_python_ml
-Docker image for Python machine learning
+A minimalist Docker image for Python machine learning
 
 # Docker Image Details
 The container is loosely based on [Tiangolo's ML Docker Image](https://github.com/tiangolo/python-machine-learning-docker).
